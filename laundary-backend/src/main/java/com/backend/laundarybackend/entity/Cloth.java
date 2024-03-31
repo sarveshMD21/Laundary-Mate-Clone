@@ -27,4 +27,6 @@ public class Cloth {
     @Lob
     @Column(name="cloth_image")
     private byte[] clothImage;
+
+
 }
